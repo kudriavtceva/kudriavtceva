@@ -2,14 +2,14 @@
     <img alt="Visitors" src="https://visitor-badge.laobi.icu/badge?page_id=kudriavtceva"/>
   </p>
   
-  # 👋 Hello, that's github profile kudriavtceva / Привет, это github профиль kudriavtceva
+  # 👋 Hello, that's github profile kudriavtceva:
   
   - My telegram - @kudriavtceva
   - My website - [\*Be soon\*](https://) 
   - I speak English / Ukrainian / Russian
 
   
-  # 👨‍💻 My favourite programming languages / Мои любимые языки программирования:
+  # 👨‍💻 My favourite programming languages:
   <p align=center>
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
   <img height="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
@@ -19,7 +19,7 @@
   </p>
   
   
-  # 📘 Little information / Немного информации:
+  # 📘 Little information:
   <br>
   <p align=center>
     <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -28,7 +28,7 @@
     <a href="https://github.com/anuraghazra/github-readme-stats"><img align=center height=145 alt="kudriavtceva's Github Stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=kudriavtceva&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   </p>
   
-  # 🔥 Statistics line / Полоса статистики:
+  # 🔥 Statistics line:
   <br>
   <p align=center>
     <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
