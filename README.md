@@ -4,7 +4,7 @@
   
   # 👋 Hello, that's github profile kudriavtceva / Привет, это github профиль kudriavtceva
   
-  - My telegram - @avisov
+  - My telegram - @kudriavtceva
   - My website - [\*Be soon\*](https://) 
   - I speak English / Ukrainian / Russian
 
