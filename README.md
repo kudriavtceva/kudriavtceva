@@ -40,5 +40,12 @@
   
   <br>
   
+  <h2 align="center">📞 Discord</h2>
+
+<a href="https://discord.com/users/777190282512302082">
+    <p align="center"><img src="https://lanyard-profile-readme.vercel.app/api/777190282512302082"></p>
+</a>
+
+  
   ---
   
