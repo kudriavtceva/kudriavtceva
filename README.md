@@ -5,6 +5,7 @@
   # 👋 Hello, that's github profile kudriavtceva:
   
   - My telegram - @kudriavtceva
+  - My discord - Маша Кудрявцева#8625
   - My website - [\*Be soon\*](https://) 
   - I speak English / Ukrainian / Russian
 
