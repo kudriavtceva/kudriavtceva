@@ -19,6 +19,19 @@
   <img height="32" src="https://www.evernote.design/assets/images/animejs.jpg" />
   </p>
   
+ ```javascript
+const kudriavtceva = {
+    description: "Friendly developper",
+    tools: ["VSCode", "mysql", "SQLite", "phpMyAdmin"], // +12 items
+    tasks: [
+        "apt install -y myworks",
+    ],
+    projects: [
+        "Working on it", // Be soon
+    ]
+}
+```
+  
   
   # 📘 Little information:
   <br>
